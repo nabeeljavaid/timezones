@@ -1,7 +1,9 @@
 {
     "name": "nabeeljavaid/timezones",
     "description": "Demo-package to show time",
+    "type": "library",
     "license": "MIT",
+    "keywords": ["laravel"],
     "authors": [
         {
             "name": "Nabeel Javaid",
