@@ -1,10 +1,7 @@
 {
     "name": "nabeeljavaid/timezones",
     "description": "Demo-package to show time",
-    "type": "library",
     "license": "MIT",
-    "keywords": ["laravel"],
-    "homepage": "https://github.com/nabeeljavaid/timezones",
     "authors": [
         {
             "name": "Nabeel Javaid",
@@ -12,6 +9,7 @@
         }
     ],
     "require": {
-        "php": ">=5.3.0"
+        "php": ">=5.4.0"
     }
 }
+
