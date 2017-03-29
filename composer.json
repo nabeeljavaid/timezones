@@ -4,13 +4,13 @@
     "type": "library",
     "license": "MIT",
     "keywords": ["laravel"],
+    "homepage": "https://github.com/nabeeljavaid/timezones",
     "authors": [
         {
             "name": "Nabeel Javaid",
             "email": "nabeeljavaid.nmj@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0"
     },
