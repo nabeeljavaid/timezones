@@ -1,0 +1,20 @@
+{
+    "name": "nabeeljavaid/timezones",
+    "description": "Demo-package to show time",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["laravel"],
+    "authors": [
+        {
+            "name": "Nabeel Javaid",
+            "email": "nabeeljavaid.nmj@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Nabeeljavaid\\Timezones\\": "src/"
+        }
+    }
+}
