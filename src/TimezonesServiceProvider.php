@@ -50,8 +50,8 @@ class TimezonesServiceProvider extends ServiceProvider
         // Controllers
         $this->app->make('Nabeeljavaid\Timezones\Controllers\TimezonesController');
         
-        $this->app->bind('grid', function($app) {
-            return new Grid();
+        $this->app->bind('timezone', function($app) {
+            return new \Nabeeljavaid\Timezones\Timezones;
         });
     }
 }
