@@ -6,8 +6,7 @@ class TimezonesFacade extends Facade {
  
     protected static function getFacadeAccessor() 
     { 
-        //return 'Nabeeljavaid\Timezones\Timezones';
-        return 'timezone';
+        return '\Nabeeljavaid\Timezones\Timezones';
     }
  
 }
